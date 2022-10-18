@@ -1,7 +1,9 @@
 # Omnipose for Cell-ACDC
 
 This is a fork of the Omnipose where we removed GUI dependencies to **allow installation of Omnipose into Cell-ACDC**. 
-See below the original README.
+Cell-ACDC is a Python GUI-based framework for segmentation, tracking and cell cycle annotations of microscopy data. The source code of Cell-ACDC is available [here](https://github.com/SchmollerLab/Cell_ACDC).
+
+See below the original README of the Omnipose package.
 
 <img src="https://github.com/kevinjohncutler/omnipose/blob/main/logo3.png?raw=true" width="200" title="bacteria" alt="bacteria" align="right" vspace = "0">
 <img src="https://github.com/kevinjohncutler/omnipose/blob/main/logo.png?raw=true" width="200" title="omnipose" alt="omnipose" align="center" vspace = "0">
