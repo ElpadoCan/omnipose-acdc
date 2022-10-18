@@ -17,8 +17,8 @@ with open("README.md", "r") as fh:
     
 setup(
     name="omnipose-acdc",
-    author="Kevin Cutler",
-    author_email="kevinjohncutler@outlook.com",
+    author="Francesco Padovani",
+    author_email="padovaf@tcd.ie",
     description="cell segmentation algorithm improving on the Cellpose framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
