@@ -1,3 +1,8 @@
+# Omnipose for Cell-ACDC
+
+This is a fork of the Omnipose where we removed GUI dependencies to **allow installation of Omnipose into Cell-ACDC**. 
+See below the original README.
+
 <img src="https://github.com/kevinjohncutler/omnipose/blob/main/logo3.png?raw=true" width="200" title="bacteria" alt="bacteria" align="right" vspace = "0">
 <img src="https://github.com/kevinjohncutler/omnipose/blob/main/logo.png?raw=true" width="200" title="omnipose" alt="omnipose" align="center" vspace = "0">
 
