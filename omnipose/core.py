@@ -666,7 +666,7 @@ def compute_masks(dP, dist, bd=None, p=None, inds=None, niter=200, rescale=1.0, 
         #preprocess flows
         if omni and OMNI_INSTALLED:
             if bd is None:
-                bd = np.ones_like(mask).astype(np.float)
+                bd = np.ones_like(mask).astype(float)
             
             # the interpolated version of div_rescale is detrimental in 3D
             # the problem is thin sections where the
